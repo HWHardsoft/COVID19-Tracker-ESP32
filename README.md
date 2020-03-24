@@ -20,6 +20,7 @@ https://www.hwhardsoft.de/english/projects/arduitouch-esp/
 Install the following libraries through Arduino Library Manager
 
 Adafruit GFX Library https://github.com/adafruit/Adafruit-GFX-Library/archive/master.zip 
+
 Adafruit ILI9341 Library https://github.com/adafruit/Adafruit_ILI9341 
 
 You can also download the library also directly as ZIP file and uncompress the folder under yourarduinosketchfolder/libraries/   
