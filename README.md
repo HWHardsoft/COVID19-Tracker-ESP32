@@ -29,7 +29,9 @@ After installing the libraries, restart the Arduino IDE.
 ## WiFi settings
 
 Enter your WiFi SSID & password in the fields in the WiFi section: 
+
 #define WIFI_SSID "xxxxxx"    // Enter your SSID here 
+
 #define WIFI_PASS "xxxxx"    // Enter your WiFi password here 
 
 
