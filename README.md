@@ -7,11 +7,11 @@ The data is collected by the website www.worldometers.info/coronavirus/
 
 ## Hardware 
 
-I've used our AZ-Touch kit for Arduino MKR as hardware plattform. This kit comes with a 2.4 inch tft touchscreen, which will be used for the data output.
+I've used our AZ-Touch kit for ESP32 as hardware plattform. This kit comes with a 2.4 inch tft touchscreen, which will be used for the data output.
 
 ![My image](https://hackster.imgix.net/uploads/attachments/1089826/mkr_extended_kit_8R81xIIxzy.jpg?auto=compress%2Cformat&w=680&h=510&fit=max)
 
-You can find the latest version of the code and the description of the hardware at
+You can find all information about the hardware here:
 https://www.hwhardsoft.de/english/projects/arduitouch-esp/
 
 
