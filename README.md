@@ -1,5 +1,5 @@
 # COVID19-Tracker-ESP32
-This little tracker will help you to be up to date about the coronvavirus outbreak and the situation in your country. The display shows alternating the current data of different countries of your choice.
+This little tracker will help you to be up to date about the Corona virus outbreak and the situation in your country. The display shows alternating the current data of different countries of your choice.
 
 The data is collected by the website www.worldometers.info/coronavirus/
 
