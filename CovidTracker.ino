@@ -125,6 +125,8 @@ void setup() {
 void loop() {
  check_country("China");
  delay(2000);
+ check_country("US");
+ delay(2000);
  check_country("Italy");
  delay(2000); 
  check_country("Germany");
@@ -215,7 +217,7 @@ void check_country(String sCountry) {
           {
               c = http.read();
               s2 = s2 + c;
-              if (readcounter < 255) {
+              if (readcounter < 300) {
                 readcounter++;
               } else {
                 readcounter = 0;
